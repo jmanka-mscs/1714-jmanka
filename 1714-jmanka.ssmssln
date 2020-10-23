@@ -7,7 +7,9 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714-jmanka-ex1i", "1714-jm
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714-jmanka-ex2a", "1714-jmanka-ex2a\1714-jmanka-ex2a.ssmssqlproj", "{0DF2E95B-7212-4BF3-B9B1-C6753EB38C25}"
 EndProject
-Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts1", "SQL Server Scripts1\SQL Server Scripts1.ssmssqlproj", "{803F5A9E-CF16-4D97-BAEE-10D500CE3393}"
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714-jmanka-ex2c", "1714-jmanka-ex2c\1714-jmanka-ex2c.ssmssqlproj", "{519EE368-D075-492B-A3F2-16A08377563D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714-jmanka-ex2b", "1714-jmanka-ex2b\1714-jmanka-ex2b.ssmssqlproj", "{65741A08-D736-4812-8BE4-F5F62DB23FD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,7 +19,8 @@ Global
 		{68ABDE48-C2EA-4DB1-B01E-2AEF58914386}.Default|Default.ActiveCfg = Default
 		{0DF2E95B-7212-4BF3-B9B1-C6753EB38C25}.Default|Default.ActiveCfg = Default
 		{BEA32046-6864-46F2-A661-411273963363}.Default|Default.ActiveCfg = Default
-		{803F5A9E-CF16-4D97-BAEE-10D500CE3393}.Default|Default.ActiveCfg = Default
+		{519EE368-D075-492B-A3F2-16A08377563D}.Default|Default.ActiveCfg = Default
+		{65741A08-D736-4812-8BE4-F5F62DB23FD1}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

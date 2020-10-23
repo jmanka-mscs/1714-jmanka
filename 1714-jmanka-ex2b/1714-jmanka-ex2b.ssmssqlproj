@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714-jmanka-ex2c">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714-jmanka-ex2b">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items />
@@ -9,59 +9,59 @@
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
       <Items>
-        <FileNode Name="1714-jmanka-ex2c01.PNG">
+        <FileNode Name="1714-jmanka-ex2b01.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c01.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b01.PNG</FullPath>
         </FileNode>
-        <FileNode Name="1714-jmanka-ex2c02.PNG">
+        <FileNode Name="1714-jmanka-ex2b02.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c02.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b02.PNG</FullPath>
         </FileNode>
-        <FileNode Name="1714-jmanka-ex2c03.PNG">
+        <FileNode Name="1714-jmanka-ex2b03.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c03.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b03.PNG</FullPath>
         </FileNode>
-        <FileNode Name="1714-jmanka-ex2c04.PNG">
+        <FileNode Name="1714-jmanka-ex2b04.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c04.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b04.PNG</FullPath>
         </FileNode>
-        <FileNode Name="1714-jmanka-ex2c05.PNG">
+        <FileNode Name="1714-jmanka-ex2b05.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c05.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b05.PNG</FullPath>
         </FileNode>
-        <FileNode Name="1714-jmanka-ex2c06.PNG">
+        <FileNode Name="1714-jmanka-ex2b06.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c06.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b06.PNG</FullPath>
         </FileNode>
-        <FileNode Name="1714-jmanka-ex2c07.PNG">
+        <FileNode Name="1714-jmanka-ex2b07.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c07.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b07.PNG</FullPath>
         </FileNode>
-        <FileNode Name="1714-jmanka-ex2c08.PNG">
+        <FileNode Name="1714-jmanka-ex2b08.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>1714-jmanka-ex2c08.PNG</FullPath>
+          <FullPath>1714-jmanka-ex2b08.PNG</FullPath>
         </FileNode>
-        <FileNode Name="jmanka1714Ex2C.docx">
+        <FileNode Name="1714-jmanka-ex2b09.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>jmanka1714Ex2C.docx</FullPath>
+          <FullPath>1714-jmanka-ex2b09.PNG</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
