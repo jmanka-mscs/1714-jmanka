@@ -15,6 +15,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714-jmanka-ex2d", "1714-jm
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714-jmanka-ex2e", "1714-jmanka-ex2e\1714-jmanka-ex2e.ssmssqlproj", "{ED47BBA4-1267-4474-B1DE-8686E24A8FD1}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714-jmanka-ex2f2", "1714-jmanka-ex2f2\1714-jmanka-ex2f2.ssmssqlproj", "{28A830F3-0E64-4959-B130-4BCF73804507}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -22,11 +24,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{68ABDE48-C2EA-4DB1-B01E-2AEF58914386}.Default|Default.ActiveCfg = Default
 		{0DF2E95B-7212-4BF3-B9B1-C6753EB38C25}.Default|Default.ActiveCfg = Default
-		{BEA32046-6864-46F2-A661-411273963363}.Default|Default.ActiveCfg = Default
 		{519EE368-D075-492B-A3F2-16A08377563D}.Default|Default.ActiveCfg = Default
 		{65741A08-D736-4812-8BE4-F5F62DB23FD1}.Default|Default.ActiveCfg = Default
 		{FC48B1E7-C41D-4CF4-A933-F01CE0F1099A}.Default|Default.ActiveCfg = Default
 		{ED47BBA4-1267-4474-B1DE-8686E24A8FD1}.Default|Default.ActiveCfg = Default
+		{AFE7CDC2-8349-4774-B44F-CB313A93EF7F}.Default|Default.ActiveCfg = Default
+		{28A830F3-0E64-4959-B130-4BCF73804507}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

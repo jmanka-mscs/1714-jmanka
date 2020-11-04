@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714-jmanka-ex2f2">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(localdb)\MSSQLLocalDB:JESSISPECTRE\jessi">
+          <Created>2020-11-03T18:23:02.7881151-06:00</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\MSSQLLocalDB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>AnimalShelter1714</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1714-jmanka-ex2f2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1714-jmanka-ex2f2.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="1714-jmanka-ex2f01.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1714-jmanka-ex2f01.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="1714-jmanka-ex2f02.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1714-jmanka-ex2f02.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="1714-jmanka-ex2f03.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1714-jmanka-ex2f03.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="1714-jmanka-ex2f04.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1714-jmanka-ex2f04.PNG</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
